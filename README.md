@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/qizdbm.jpg" width="250"/>
+  <img src="https://files.catbox.moe/qizdbm.jpg" width="300"/>
 </p>
 
 <h1 align="center">Modified WhatsApp Baileys</h1>
